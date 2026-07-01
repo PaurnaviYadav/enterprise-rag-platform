@@ -1,1 +1,14 @@
-
+langchain
+langchain-community
+faiss-cpu
+fastapi
+uvicorn
+transformers
+sentence-transformers
+torch
+pandas
+numpy
+scikit-learn
+mlflow
+pydantic
+python-dotenv
